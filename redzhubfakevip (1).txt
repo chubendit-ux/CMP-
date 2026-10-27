@@ -3739,7 +3739,7 @@ end
 local vu32 = loadstring(game:HttpGet("https://raw.githubusercontent.com/PlockScripts/Library-ui/refs/heads/main/redz-V5-remake/main.luau"))()
 local v466 = vu32:MakeWindow({
     Title = "CMP hub",
-    SubTitle = "Blox Fruits
+    SubTitle = "Blox Fruits",
     SaveFolder = "Redz | redz lib v5.lua"
 })
 
@@ -6634,7 +6634,7 @@ if World3 then
                                     if not l_Character_7:FindFirstChild("Tushita") and not l_Backpack_1:FindFirstChild("Tushita") then
                                         if not v798 then
                                             game.StarterGui:SetCore("SendNotification", {
-                                                Title = "CMP hub
+                                                Title = "CMP hub",
                                                 Text = "Use! - Yama or Tushita",
                                                 con = "rbxassetid://103040622214979",
                                                 Duration = 10
